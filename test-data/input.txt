@@ -1,0 +1,27 @@
+adventure, discovery, exploration, journey, expedition
+car, bike, bus
+ocean, forest, mountain, valley, desert
+happy, sad, joyful
+paper, pencil, eraser, marker, notebook
+love, hate, anger
+desk, shelf, cupboard, drawer
+laughter, tears, memories, experiences, emotions
+cat, dog, parrot
+green, yellow, purple, orange, pink
+sun, moon, stars, sky
+chair, table, couch
+friendship, companionship, camaraderie, bond
+music, art, theater
+water, fire, air, earth
+keyboard, mouse, monitor, printer, scanner
+grapefruit, pineapple, lemon
+sunrise, sunset, horizon, twilight, dawn
+stars, galaxies, planets, universe
+kindness, empathy, compassion, generosity
+excited, nervous, enthusiastic, anxious
+book, pen, novel
+rabbit, hamster, guinea pig, ferret
+red, blue, green
+dance, sing, paint, sculpt, compose
+chocolate, vanilla, strawberry, caramel, mint
+bus, train, subway, tram, trolleybus
